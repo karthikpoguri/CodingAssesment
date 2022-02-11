@@ -7,6 +7,7 @@ This script downloads the code present in google drive and saves it in actual_co
 function present in that file.
 
 ## Commands to run the script
+-  pip install gdown
 -  git clone https://github.com/karthikpoguri/CodingAssesment.git
 -  cd CodingAssesment/
 -  python test_code.py
